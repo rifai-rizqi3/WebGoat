@@ -1,1 +1,4 @@
 .m2
+target
+nbactions.xml
+.idea
